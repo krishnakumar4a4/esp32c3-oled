@@ -1,0 +1,7 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define HOTSPOT_SSID "some-wifi-hs-name-here"
+#define HOTSPOT_PWD "some-wifi-hs-pwd-here"
+
+#endif
